@@ -1,1 +1,1 @@
-{"respawnCost":30}
+{"whitelist": 51766310, 1599008914}
